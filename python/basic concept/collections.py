@@ -23,6 +23,8 @@ copy.extend(fruits)
 print(copy)
 
 
+
+
 # tuple -> constant we cannot change it .
 bucket = ("brush", "paste")
 
